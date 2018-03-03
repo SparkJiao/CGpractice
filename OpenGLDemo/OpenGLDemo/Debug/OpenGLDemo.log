@@ -1,0 +1,10 @@
+﻿  main.cpp
+e:\vsprojects\opengldemo\opengldemo\angel.h(63): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+e:\vsprojects\opengldemo\opengldemo\mat.h(707): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\vsprojects\opengldemo\opengldemo\mat.h(708): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\vsprojects\opengldemo\opengldemo\mat.h(709): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\vsprojects\opengldemo\opengldemo\mat.h(730): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\vsprojects\opengldemo\opengldemo\mat.h(732): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\vsprojects\opengldemo\opengldemo\mat.h(735): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\vsprojects\opengldemo\opengldemo\mat.h(752): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+  OpenGLDemo.vcxproj -> E:\VSProjects\OpenGLDemo\Debug\OpenGLDemo.exe
