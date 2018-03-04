@@ -7,4 +7,5 @@ e:\vsprojects\opengldemo\opengldemo\mat.h(730): warning C4244: “=”: 从“do
 e:\vsprojects\opengldemo\opengldemo\mat.h(732): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
 e:\vsprojects\opengldemo\opengldemo\mat.h(735): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
 e:\vsprojects\opengldemo\opengldemo\mat.h(752): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\vsprojects\opengldemo\opengldemo\main.cpp(8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
   OpenGLDemo.vcxproj -> E:\VSProjects\OpenGLDemo\Debug\OpenGLDemo.exe
