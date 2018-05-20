@@ -1,0 +1,4 @@
+﻿  demo2.cpp
+e:\vsprojects\基于opencv的人脸检测及识别\consoleapplication1\consoleapplication1\demo2.cpp(36): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\vsprojects\基于opencv的人脸检测及识别\consoleapplication1\consoleapplication1\demo2.cpp(94): warning C4101: “x”: 未引用的局部变量
+  ConsoleApplication1.vcxproj -> E:\VSProjects\基于OpenCV的人脸检测及识别\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
